@@ -6,6 +6,8 @@ public class Student {
 
     private String name;
 
+    private String address;//新创建的
+
 
     public String getId() {
         return id;
